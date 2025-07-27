@@ -1,0 +1,764 @@
+body {
+	background-color: #F0F0F0;
+	padding: 0;
+	margin: 0;
+	font-family: "Tinos", serif;
+}
+
+.main-head, .sub-head, .col-title, .col-title2, .col-title3 {
+	font-family: "Girassol", serif;
+}
+
+.container {
+	max-width: 100%;
+}
+
+.container1 {
+	background-color: #FFFb77;
+}
+.Heroimage {
+	width: 100%;
+}
+
+.BTN {
+	display: block;
+	width: 120px;
+	height: 30px;
+	background-color: #004080;
+	border-radius: 35px;
+	color: #FFFb77;
+	border: 2px solid #004080;
+}
+
+.BTN:hover {
+	background-color: aqua;
+	border: 2px solid #004080;
+	color: #004080;
+}
+
+.btn {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.aside-right {
+	height: 661px;
+	object-fit: contain;
+}
+
+h1, h2 {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.header {
+	background-color: #004080;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;	
+}
+
+
+
+.navbar {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+}
+
+.navbar a {
+	color: #FFFB77;
+	text-decoration: none;
+	padding: 1rem;
+	font-weight: 700;
+}
+
+.navbar a:hover {
+	color: #F57944;
+}
+
+footer {
+	
+	display: flex;
+	flex-direction:row;
+	justify-content:space-between;
+	margin: 2rem;
+}
+
+#carouselExample {
+	padding: 0px 0px 0px 14px;
+	width: 50%;
+	
+}
+
+.aside-left {
+	background-color:#004080;
+}
+
+.main-head {
+	color: #FFFFFF;
+}
+
+.sub-head {
+	color: #FFFFFF;
+}
+
+.col {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.row {
+	background-color: #FFFB77;
+	margin: 0px 1px;
+	height: 483px;
+}
+
+.col1 {
+	margin: 150px 0px;
+}
+
+.row1 {
+	display: flex;
+	flex-direction: row;
+	background-color:#6EC0FF;
+	margin: 0px 1px;
+	height: 483px;
+}
+
+.Boat {
+	width: auto;
+	height: 80%;
+	margin: 50px 0px 0px;
+}
+
+.Singer {
+	width: auto;
+	height: 80%;
+	margin: 50px 0px 0px 5px;
+}
+
+.Yoga {
+	width: auto;
+	height: 80%;
+	margin: 50px 20px 0px 5px;
+}
+
+.col2 {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.row2 {
+	display: flex;
+	flex-direction: row;
+	background-color:#FFF7BB;
+	height: 483px;
+}
+
+#carouselExample1 {
+	width: 90%;
+}
+
+.col3 {
+	display: flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center;
+}
+.row3 {
+	width: 100%;
+}
+
+.row4 {
+	width: 80%;
+	padding: 0px 0px 50px;
+}
+
+.col-title2 {
+	padding: 0px 0px 0px 180px;
+}
+
+.Rate1, .Rate2  {
+	padding: 80px 10px 80px 0px;
+}
+
+.Rate3 {
+	padding: 80px 200px 80px 0px;
+}
+
+.row5 {
+	display: flex;
+	flex-direction:column;
+	justify-content:center;
+}
+
+
+
+.row6 {
+	display: flex;
+	flex-direction:column;
+	justify-content:center;
+}
+
+.roww {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.about-para {
+	width: 500px;
+	padding: 0px 0px 0px 500px;
+}
+
+.about-para1 {
+	width: 500px;
+	padding: 0px 0px 0px 500px;
+	
+}
+
+.about-para2 {
+	width: 500px;
+	padding: 0px 0px 0px 500px;
+}
+
+.row7 {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.box {
+	padding: 0px 0px 0px 40px;
+}
+
+.row9 {
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	height: 480px;
+}
+
+#carouselExample2 {
+	padding: 0px 0px 0px 14px;
+	width: 50%;
+	margin-left: auto;
+}
+
+.row10 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+
+}
+
+
+
+.about-para3  {
+	padding: 0px 
+}
+
+.row11 {
+	display: flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items: center;
+}
+
+.Ceo {
+	width: 50%;
+}
+
+.Ceo-detail {
+	width: 300px;
+}
+
+.row12 {
+	display: flex;
+	flex-direction:row;
+	justify-content: center;
+	
+}
+
+.Md, .Amd {
+	width: auto;
+}
+
+
+
+
+.col4, .col5 {
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
+	margin: 0px 20px;
+}
+
+.Amd-title {
+	padding-left: 25px;
+}
+
+.Md-title {
+	padding-left: 25px;
+}
+
+.row13 {
+	display: flex;
+	flex-direction:row;
+	
+	
+}
+
+
+.RM {
+	width: 100%;
+	
+}
+
+.RMNG {
+	width: 100%;
+}
+
+.FAL {
+	width: 100%;
+}
+
+.Rmng-title {
+	
+}
+
+.Rm-title {
+	
+}
+
+.Fal-title {
+	
+}
+
+.LB, .WC, .ML, .FDS {
+	width: 100%;
+}
+
+.col66, .col6, .col7 {
+	display: flex;
+	flex-direction: column;	
+}
+
+
+.row14 {
+	display: flex;
+	flex-direction:row;
+	justify-content:center;
+	
+}
+
+.col8, .col9, .col10, .col11 {
+	width: auto;
+}
+
+
+.container {
+	background-color:#FFFB77;
+}
+
+.row9, .row10 {
+	background-color:#6EC0FF;
+}
+
+.row15  {
+	display: flex;
+	flex-direction:column;
+	justify-content: center;
+}
+.Reception-detail {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+
+
+.row16 {
+	background: #6EC0FF;
+	display: flex;
+	flex-direction: row;
+}
+
+.col12, .col13, .col14 {
+	margin: 20px;
+}
+
+.row17 {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.col15, .col16 {
+	margin: 20px;
+}
+
+.ICONSS {
+	height: 100px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+
+
+.row18 {
+	display:flex;
+	flex-direction: column;
+	width: 80%;
+}
+
+
+.col34 {
+	display: flex;
+	flex-direction: row;	
+}
+.col36,  .row19, .row25, .row26, .row27, .row24, .row23, .row22,  .row21, .col21, .row20, .col18,  .col22, .col25, .col26, .col29, .col30, .col33 {
+	display:flex;
+	flex-direction: row;
+}
+
+.rrr, .ttt, .yyy, .uuu, .iii {
+	display: flex;
+	flex-direction: row;
+	background-color: #6EC0FF;
+}
+
+ .tt, .yy, .uu  {
+	display: flex;
+	flex-direction: row;
+	background-color: #FFFb77;
+}
+
+.rr {
+	display: flex;
+	flex-direction: row;
+}
+
+.yoga-pic, .yoga1-pic, .boat-pic, .singer-pic, .cafe-pic, .eat-pic, .gym-pic, .pool-pic, .room-pic, .spa-pic, .wifi-pic, .boat-pic1, .cafe-pic1, .eat-pic1, .gym-pic1, .pool-pic1, .singer1-pic, .spa-pic1, .wifi-pic1, .room-pic1 {
+	width: 45%;
+	padding-left: 20px;
+}
+
+.yoga-details, .boat-detail, .pool-detail, .wifi-detail, .spa-detail {
+	width: 800px;
+	padding: 0px 40px 0px 20px;
+}
+
+.singer-detail, .eat-detail, .cafe-detail, .room-detail, .gym-detail {
+	width: 800px;
+	padding: 0px 20px 0px 40px;
+}
+
+.cont-head-para {
+	width:80%;
+	margin-left: 10%;
+}
+
+.rOw {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	
+}
+
+.event-detail {
+	display: flex;
+	flex-direction: column;
+}
+
+.p44, .p55, .p66, .p100 {
+	width: 800px;
+}
+
+
+.p1, .p2, .p3, .p4, .p5, .p6, .p7, .p8, .p9, .p10, .p11, .p12, .p16 .sea-side {
+	padding: 0px 0px 0px 20px;
+}
+
+.newyear1  {
+	width: 50%;
+}
+
+.weekend-pic {
+	width: 90%;
+}
+
+.whole, .whole1, .whole2 {
+	display: flex;
+	flex-direction: row;
+}
+
+.whole3 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.event-detail3 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+
+.sunset, .Coast, .Acoustic {
+	display: flex;
+	flex-direction: row;
+	justify-content:center;
+}
+
+.p13, .p14, .p15 {
+	padding: 0px 0px 0px 50px;
+}
+
+.ongoing-title {
+	padding: 0px 30px 0px 0px;
+}
+
+.event-detail2 {
+	padding: 50px 0px 0px 41px ;
+}
+
+.p66, .p55 {
+	padding:  0px 0px 0px -20px;
+}
+
+.event-detail1 {
+	padding: 25px 0px 0px 0px;
+}
+
+.p4 {
+	margin: 0px 80px 0px 0px;
+}
+
+.p8 {
+	margin: 0px 40px 0px 0px;
+}
+
+.p12 {
+	margin: 0px 100px 0px 0px;
+}
+
+.damn {
+	padding: 0px 0px 10px 0px;
+}
+
+.upcoming-title {
+	background: #FFFB77;
+}
+
+.event-detail, .event-detail2 {
+	background-color: #6EC0FF;
+}
+
+.whole1 {
+	height: 380px;
+}
+
+.whole {
+	height: 413px;
+}
+
+.whole2 {
+	height: 427px;
+}
+
+.event-detail {
+	padding: 0px 0px 40px 41px;	
+}
+
+
+
+
+@media (max-width:900px) {
+	.header {
+		display: block;
+		margin: 0;
+		padding: 0;
+	}
+	
+	.navbar {
+		display: block;
+		margin: 0;
+		padding: 0;
+	}
+	.navbar a {
+		display: block;
+		text-align: center;
+	}
+	
+	.Logo {
+		text-align: center;
+	}
+	.row {
+		display: block;
+	}
+	
+	.aside-right {
+		height: 5px;
+	}
+	
+	.row {
+		height: auto;
+	}
+	
+	#carouselExample {
+		width:auto;
+		margin: 0px 10px 0px 0px;
+	}
+	
+	.col-title {
+		height: auto;
+	}
+	
+	.row1, .row2, .row4 {
+		display: block;
+		width: 100%;
+		height:auto;
+	}
+	
+	.Boat, .Singer, .Yoga {
+		width: 100%;
+	}
+	
+	.col2 {
+		display: block;
+		width: 100%;
+		height:auto;
+	}
+	
+	.footer {
+		display: block;
+	}
+	
+	.Rate1, .Rate2, .Rate3 {
+		padding: 0px 0px 0px 105px;
+	}
+	
+	.row3 {
+		padding: 0px 100px 0px 0px;
+	}
+	
+	.row4 {
+		padding-left: 50px;
+	}
+	
+	.row2 {
+		padding-bottom: 0px;
+	}
+	.row1 {
+		padding-bottom: 1px;	
+	}
+	
+	
+	.row5, .row6, .row7, .row8,.row11, .row12, .row13, .row14, .roww {
+		display: block;
+	}
+	.about-para, .about-para1, .about-para2 {
+		padding: 0px 500px 0px 10px ;
+		width: 400px;
+	}
+	.row9 {
+		height: auto;
+	}
+	.about-para3 {
+		width: 100%;
+	}
+	.row9 {
+		display: block;
+		justify-content: center;
+	}
+	
+	.col4 {
+		margin: 0px 0px 0px 20px;
+	}
+	
+	.Md, .Amd, .RM, .FAL, .RMNG, .WC, .ML, .FDS, .LB {
+		width:90%;
+	}
+	
+	.RM, .FAL, .RMNG, .LB, .WC, .ML, .FDS {
+		padding-left: 20px;
+	}
+	
+	.Md {
+		padding-left: 10px;
+	}
+	
+	.Amd {
+		padding-left: 20px;
+	}
+	
+	.Ceo {
+		width: 90%;
+		padding-left: 20px;
+	}
+	.Ceo-detail {
+		padding-left: 70px;
+	}
+	
+	.Ceo-title {
+		padding-left: 180px;
+	}
+	
+	.Md-title, .Amd-title, .Rm-title, .Rmng-title, .Fal-title, .Fds-title, .Ml-title, .Wc-title{
+		padding-left: 120px;
+	}
+	
+	.Lb-title {
+		padding-left: 160px;
+	}
+	.rOw, .row18, .row19, .row20, .row21, .row22, .row23, .row24, .row25, .row26 {
+		display: block;
+		height: auto;
+	}
+	.whole, .whole1, .whole2, .whole3, .event-detail, .event-detail1, .event-detail2, .event-detail3, .event-detail4, .event-detail5 {
+		display: block;
+		height: auto;
+	}
+	.p44, .p55, .p66, .p77, .p88, .p99 {
+		width: 400px;
+	}
+	
+	.newyear {
+		width: 200%;
+	}
+	
+	.weekend-pic, .coastal-pic {
+		width: 100%;
+	}
+	.SOCIAL {
+		padding-left: 35px;
+		
+	}
+	.Facult-details, .Accom-details{
+		padding: 0px 20px ;
+	}
+	.ttt, .rrr, .yyy, .uuu, .iii, .tt, .rr, .yy, .uu  {
+		display: block;
+	}
+	
+	.spa-detail, .room-detail, .wifi-detail, .cafe-detail, .pool-detail, .eat-detail, .boat-detail, .singer-detail {
+		width: 80%;
+	}
+	.yoga1-pic, .singer1-pic, .boat-pic1, .eat-pic1, .cafe-pic1, .pool-pic1, .wifi-pic1, .room-pic1, .spa-pic1 {
+		padding: 0px 20px 0px 0px;
+	}
+	.btn {
+		padding: 178px 0px 0px 0px;
+	}	
+}
+
+
+	
